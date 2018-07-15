@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wecunsShops.iml" filepath="$PROJECT_DIR$/wecunsShops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ziv-anniations/ziv-anniations.iml" filepath="$PROJECT_DIR$/ziv-anniations/ziv-anniations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ziv-complier/ziv-complier.iml" filepath="$PROJECT_DIR$/ziv-complier/ziv-complier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ziv-core/ziv-core.iml" filepath="$PROJECT_DIR$/ziv-core/ziv-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ziv-ec/ziv-ec.iml" filepath="$PROJECT_DIR$/ziv-ec/ziv-ec.iml" />
+    </modules>
+  </component>
+</project>
