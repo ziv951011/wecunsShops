@@ -46,7 +46,7 @@ public abstract class BaseDelegates extends SwipeBackFragment {
              */
             onBindView(savedInstanceState, rootView);
         }
-        return super.onCreateView(inflater, container, savedInstanceState);
+        return rootView;
     }
 
     /**

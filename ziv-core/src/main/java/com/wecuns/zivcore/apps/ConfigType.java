@@ -11,6 +11,6 @@ public enum ConfigType {
     APPLICATION_CONTEXT,
     // 配置初始化完成没
     CONFIG_READY,
-
+    // 字体库
     ICON
 }
